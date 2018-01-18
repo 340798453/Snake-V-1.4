@@ -12,7 +12,7 @@ import Foundation
 
 
 
-class ViewController: UIViewController {
+class SnakeViewController: UIViewController {
     @IBOutlet weak var startButton: UIButton!
     
     override func viewDidLoad() {
